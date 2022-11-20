@@ -8,7 +8,7 @@
 # 08-scherlok
 _Website design project_
 <br>
-![Alt text](./img/scherlok.jpg)
+![Alt text](./image/scherlok.jpg)
 <br>
 ## 🌟 About
 
